@@ -1,13 +1,14 @@
-// Simple WebExtension (Chrome & Firefox Tested) to make it easier to Save Webpages or Check if they have been saved previously
+// Simple WebExtension (Chrome & Firefox Tested) to make it easier to Save Page, Image or Link Urls or to Check if they have been saved previously
 // uses Archive.org's Wayback Machine, Archive.is and Webcite
 // Cathal McNally
 // February 2017
 // ver 1.2
 
 // changelog
-// ver 1.0 Initial version
-// ver 1.1 fixed a url error for settings page
-// ver 1.2 Right clicking on an image or a Link will now also send the url for backup.
+// ver 1.0    Initial version
+// ver 1.1    Fixed a url error for settings page
+// ver 1.2    Right clicking on an image or a Link will now also send the url for backup.
+// wer 1.2.1  Fixed a silly file Casing bug for Firefox.
 
 (function(){
 	// Get settings saved in local storage
