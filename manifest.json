@@ -1,0 +1,14 @@
+{
+  "name": "The Archiver",
+  "description": "Save Pages to Wayback Machine, Archive.is & WebCite",
+  "version": "1.2",
+  "permissions": ["contextMenus","storage"],
+  "background": {
+    "scripts": ["theArchiver.js"]
+  },
+  "options_page": "options/options.html",
+  "icons": { "16": "images/theArchiver16.png",
+           "48": "images/theArchiver48.png",
+          "128": "images/theArchiver128.png" },
+  "manifest_version": 2
+}
