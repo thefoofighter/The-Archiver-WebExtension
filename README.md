@@ -16,7 +16,7 @@ Save all the Internets!
 
 Installing on Firefox:
 
-Download the XPI [here](https://mega.nz/#!SQJGHA6L!9BAKFpF2wru5wari1Gw-i8bBBNMDjR0NqFjq7C33ykg)
+Download the XPI [here](https://mega.nz/#!PNZ3GAwS!RRGyCHpPmKFfdFKnBuEee8JuI65XcfpQznvmWznjcLg)
 
 1. Download the XPI package above.
 2. Open a new Tab and go to 'about:addons'.
