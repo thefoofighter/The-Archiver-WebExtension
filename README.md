@@ -6,7 +6,6 @@ Thanks to Firefox's new WebExtension Api I literally only had to copy my origina
 
 - [Archive.org's](https://archive.org/) Wayback Machine
 - [Archive.is](https://archive.is/) (aka: Archive.Today)
-- [WebCite](http://www.webcitation.org/) (requires your email in the settings)
 
 Simply right click on a Page, Image or Link and use the context menu to archive the page or check if the page has been previously saved.
 
@@ -16,19 +15,12 @@ Save all the Internets!
 
 Installing on Firefox:
 
-Download the XPI [here](https://mega.nz/#!PNZ3GAwS!RRGyCHpPmKFfdFKnBuEee8JuI65XcfpQznvmWznjcLg)
+Addon can be found in the Firefox Addon store [here](https://addons.mozilla.org/en-US/firefox/addon/the-archiver/)
 
-1. Download the XPI package above.
-2. Open a new Tab and go to 'about:addons'.
-3. Drag the XPI onto the window and install when prompted.
+Chrome support is currently broken as i need to bring the plugin to CRX3 but hav no time ^^
+You can fork this repo and enable developer mode in the chrome extensions tab and load the unpacked plugin to get it to work
 
-Installing on Chrome:
-
-Download the CRX [here](https://mega.nz/#F!bEAkmKwK!4hd2C6Ta4wmiVu1hx0t4gw)
-
-1. Download the CRX package above.
-2. Open a new tab in Chrome and go to `chrome://extensions`.
-3. Drag the CRX package you downloaded from step (1) into the tab.
+Once i have time I will bring it to chrome properly through the store.
 
 ### Usage
 

@@ -1,7 +1,7 @@
 {
   "name": "The Archiver",
-  "description": "Save Page, Image & Link Urls to the Wayback Machine, Archive.is & WebCite",
-  "version": "1.2.1",
+  "description": "Save Page, Image & Link Urls to the Wayback Machine, Archive.is",
+  "version": "1.2.2",
   "permissions": ["contextMenus","storage"],
   "background": {
     "scripts": ["theArchiver.js"]
